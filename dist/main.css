@@ -1,0 +1,47 @@
+.text {
+  font-size: 18px;
+  color: antiquewhite;
+  text-align: left;
+}
+
+.reveal .title {
+  font-size: 65px;
+  color: #42affa;
+}
+
+.reveal .slides > section > section .sub-title {
+  font-size: 44px;
+  color: #42affa;
+}
+
+.reveal .slides > section > section .code-wrapper {
+  margin: 2px;
+  font-size: 18px;
+  width: 100%;
+}
+
+.reveal .slides > section > section .code__html {
+  font-size: 16px;
+  font-style: italic;
+  margin: 0;
+  color: grey;
+}
+
+.reveal .sub__list {
+  display: grid;
+  gap: 2px;
+  font-size: 24px;
+  color: #344a59;
+}
+
+.sub__value {
+  color: rgb(222, 151, 58);
+}
+
+.sub__text {
+  color: grey;
+  font-size: 18px;
+}
+.sub__text--small {
+  font-size: 14px;
+}
